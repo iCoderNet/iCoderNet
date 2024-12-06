@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋🏻, I'm Azizbek Azimjonov </br> 
+<h1 align="center"> Hi 👋🏻</br> 
 </h1>
 <p align="center">I architect robust backends ⚡</p>
 <p align="center">Bringing data to life behind the scenes 🚀</p>
